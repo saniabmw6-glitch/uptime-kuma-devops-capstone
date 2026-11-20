@@ -139,3 +139,5 @@ HTTPS test endpoint.
 - Elastic IP
 - Scheduled backups with cron and off-server copies (S3)
 - Restrict Security Group access
+
+Note: this repository is a fork of louislam/uptime-kuma. The CI checks (CodeQL, auto-tests, linters) are inherited from the upstream project. The autofix.ci check is an upstream bot that does not run successfully on forks and is unrelated to this capstone.
